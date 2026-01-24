@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="src-tauri/icons/icon.png" alt="SkyBox Logo" width="200" height="200">
+  <img src="src/icon/icon.png" alt="SkyBox Logo" width="200" height="200">
 </div>
 
 <div align="center">
