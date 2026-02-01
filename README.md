@@ -22,6 +22,22 @@ SkyBox is a modern desktop file explorer application built with Tauri, React, an
 - **Cross-platform**: Native desktop application powered by Tauri
 - **Secure**: Built with security best practices for desktop applications
 
+## Screenshots
+
+<div align="center">
+  <img src="src/screenshots/Screenshot-1.png" width="800" alt="SkyBox Screenshot 1">
+  <br><br>
+  <img src="src/screenshots/Screenshot-2.png" width="800" alt="SkyBox Screenshot 2">
+  <br><br>
+  <img src="src/screenshots/Screenshot-3.png" width="800" alt="SkyBox Screenshot 3">
+  <br><br>
+  <img src="src/screenshots/Screenshot-4.png" width="800" alt="SkyBox Screenshot 4">
+  <br><br>
+  <img src="src/screenshots/Screenshot-5.png" width="800" alt="SkyBox Screenshot 5">
+  <br><br>
+  <img src="src/screenshots/Screenshot-6.png" width="800" alt="SkyBox Screenshot 6">
+</div>
+
 ## Tech Stack
 
 - **Frontend**: React, TypeScript, Tailwind CSS
@@ -29,7 +45,6 @@ SkyBox is a modern desktop file explorer application built with Tauri, React, an
 - **Backend**: Rust (Tauri)
 - **Build Tool**: Vite
 - **Platform**: Desktop (Windows, macOS, Linux)
-
 
 ## License
 
