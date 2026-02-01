@@ -30,27 +30,6 @@ SkyBox is a modern desktop file explorer application built with Tauri, React, an
 - **Build Tool**: Vite
 - **Platform**: Desktop (Windows, macOS, Linux)
 
-## Getting Started
-
-To run this application locally, you'll need Node.js and Rust installed:
-
-1. Install dependencies:
-   ```bash
-   npm install
-   ```
-
-2. Start the development server:
-   ```bash
-   npm run dev
-   ```
-
-## Project Structure
-
-- `/src`: Contains the React frontend components and pages
-- `/src-tauri`: Contains the Rust backend code and Tauri configuration
-- `/public`: Static assets and resources
-- `/components`: Reusable UI components
-
 ## Contributing
 
 We welcome contributions to improve SkyBox. Feel free to fork the repository, make changes, and submit pull requests.
