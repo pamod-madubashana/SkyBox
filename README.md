@@ -30,9 +30,6 @@ SkyBox is a modern desktop file explorer application built with Tauri, React, an
 - **Build Tool**: Vite
 - **Platform**: Desktop (Windows, macOS, Linux)
 
-## Contributing
-
-We welcome contributions to improve SkyBox. Feel free to fork the repository, make changes, and submit pull requests.
 
 ## License
 
